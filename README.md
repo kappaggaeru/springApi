@@ -1,0 +1,1 @@
+This is an API developed using Springboot, it only has one entity because it is for practice porposes, it uses a db on memory and some loombok notations (kind of), I'va added a collection from Postman with all the tested endpoints, you can add movies, delete, update and find them.
